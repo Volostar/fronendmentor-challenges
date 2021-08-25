@@ -1,3 +1,13 @@
 body {
     background-color: rgb(187, 187, 251);
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.card {
+    background: white;
+    width: 600px;
+    height: 80vh;
+    border-radius: 30px;
 }
